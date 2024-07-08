@@ -19,7 +19,7 @@ body{
   width: 195px;
   height:41px;
   font-size:0;
-  background-image:url(../images/logo.png);
+  /* background-image:url(../images/logo.png); */
 }
 /* 导航样式 */
 .nav{
